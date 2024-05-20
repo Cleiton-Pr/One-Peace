@@ -5,8 +5,6 @@ body{
 }
 
 main .personagem{
-    
-    
     height: 100vh;
     display: none;
   
@@ -14,7 +12,6 @@ main .personagem{
 
 main .personagem.selecionado{
     display: block;
-
 }
 
 main .personagem .imagem{
@@ -59,6 +56,8 @@ main::after{
 .conteudo .descricao{
     color:rgb(255, 255, 255);
     font-family: secular one;
+    font-size: 30px;
+    width: 650px;
     /*line-height: 20px;
     margin-left: -10%;*/
   
